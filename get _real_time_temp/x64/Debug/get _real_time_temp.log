@@ -1,0 +1,12 @@
+﻿  get _real_time_temp.cpp
+c:\users\wave ambray\source\repos\thermal terminal\get _real_time_temp\get _real_time_temp.cpp(40): warning C4476: 'printf' : unknown type field character ']' in format specifier
+c:\users\wave ambray\source\repos\thermal terminal\get _real_time_temp\get _real_time_temp.cpp(44): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\wave ambray\source\repos\thermal terminal\get _real_time_temp\get _real_time_temp.cpp(44): note: placeholders and their parameters expect 9 variadic arguments, but 11 were provided
+c:\users\wave ambray\source\repos\thermal terminal\get _real_time_temp\get _real_time_temp.cpp(48): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+c:\users\wave ambray\source\repos\thermal terminal\get _real_time_temp\get _real_time_temp.cpp(53): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+c:\users\wave ambray\source\repos\thermal terminal\get _real_time_temp\get _real_time_temp.cpp(53): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'double'
+c:\users\wave ambray\source\repos\thermal terminal\get _real_time_temp\get _real_time_temp.cpp(53): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'double'
+c:\users\wave ambray\source\repos\thermal terminal\get _real_time_temp\get _real_time_temp.cpp(53): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 4 has type 'double'
+c:\users\wave ambray\source\repos\thermal terminal\get _real_time_temp\get _real_time_temp.cpp(80): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\wave ambray\source\repos\thermal terminal\get _real_time_temp\get _real_time_temp.cpp(95): warning C4101: 'struDeviceInfo': unreferenced local variable
+  get _real_time_temp.vcxproj -> C:\Users\wave ambray\source\repos\Thermal Terminal\x64\Debug\get _real_time_temp.exe
